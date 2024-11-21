@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 *{
     margin: 0;
 }
+=======
+
+*{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+>>>>>>> a10a9190e08335fcc0d61c8b142d495576257a5b
